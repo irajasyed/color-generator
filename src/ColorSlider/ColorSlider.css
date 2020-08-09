@@ -1,0 +1,9 @@
+.color-slider {
+    display: flex;
+    width: 25%;
+    text-align: center;
+}
+
+.slider-label {
+    padding-right: 30px;
+}
